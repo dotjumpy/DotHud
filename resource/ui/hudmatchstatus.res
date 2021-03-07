@@ -269,7 +269,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 
-
 		"max_size"	"20"
 
 		"6v6_gap"	"2"
@@ -352,7 +351,7 @@
 				"fieldName"				"healthbar"
 				"font"					"Default"
 				"xpos"					"0"
-				"ypos"					"19"
+				"ypos"					"rs1"
 				"zpos"					"5"
 				"wide"					"f0"
 				"tall"					"2"
@@ -363,7 +362,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"		"0 0 0 120"
+				"bgcolor_override"		"0 0 0 220"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"
@@ -372,7 +371,7 @@
 				"fieldName"				"overhealbar"
 				"font"					"Default"
 				"xpos"					"0"
-				"ypos"					"19"
+				"ypos"					"rs1"
 				"zpos"					"6"
 				"wide"					"p2"
 				"tall"					"2"

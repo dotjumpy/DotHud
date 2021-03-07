@@ -1,11 +1,20 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos1.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Spycicle
-
-"Resource/UI/HudItemEffectMeter_Heavy.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Weapons
+	// ============================================================================================== //
+	// Spy - Spycicle
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_spyknife.res"
 {
-	HudItemEffectMeter
+	"== huditemeffectmeter_spyknife =="
 	{
-		"ypos"			"r123"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+

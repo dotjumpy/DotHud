@@ -1,15 +1,15 @@
-	#base 	"huditemeffectmeter_base_meters_pos2.res"
-	#base 	"huditemeffectmeter_base_meters.res"
+	#base	"huditemeffectmeter_base_meters_pos1.res"
+	#base	"huditemeffectmeter_base_meters.res"
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Affected Elements / Weapons
 	// ============================================================================================== //
-	// Soldier - Righteous Bison
+	// Halloween
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	
-"Resource/UI/huditemeffectmeter_raygun.res"
+"Resource/UI/huditemeffectmeter_kartcharge.res"
 {
-	"== huditemeffectmeter_raygun =="
+	"== huditemeffectmeter_kartcharge =="
 	{
 		"ControlName"												"ImagePanel"
 	}

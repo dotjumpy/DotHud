@@ -1,11 +1,21 @@
-#base "huditemeffectmeter.res"
+	#base	"huditemeffectmeter_base_meters_pos1.res"
+	#base	"huditemeffectmeter_base_meters.res"
 
-// Soda Popper
-
-"Resource/UI/HudItemEffectMeter_SodaPopper.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Pyro - Phlogistinator
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/HudItemEffectMeter_Pyro.res"
 {
-	HudItemEffectMeter
+	"== HudItemEffectMeter_Pyro =="
 	{
-		"ypos"			"r141"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+
+

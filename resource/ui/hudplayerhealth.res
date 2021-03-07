@@ -99,7 +99,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"east"
-		"font"			"ProductBold32"
+		"font"			"ProductBold32Blur"
 		"fgcolor"		"0 0 0 150"
 
 		"pin_to_sibling"		"PlayerStatusHealthValueMain"

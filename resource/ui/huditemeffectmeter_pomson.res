@@ -1,7 +1,20 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos1.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Bison
-
-"Resource/UI/HudItemEffectMeter_RayGun.res"
-{	
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Engineer - Pomson 6000
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_pomson.res"
+{
+	"== huditemeffectmeter_pomson =="
+	{
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+

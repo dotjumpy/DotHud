@@ -1,11 +1,21 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos3.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Soda Popper
-
-"Resource/UI/HudItemEffectMeter_SodaPopper.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Scout - Bonk! Atomic Punch, Crit-a-Cola, Mad Milk
+	// MvM - Medic shield
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_scout.res"
 {
-	HudItemEffectMeter
+	"== huditemeffectmeter_scout =="
 	{
-		"ypos"			"r123"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+

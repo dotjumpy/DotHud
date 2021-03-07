@@ -1,11 +1,20 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos1.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Soda Popper
-
-"Resource/UI/HudItemEffectMeter_SodaPopper.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Scout - Baby Face's Blaster, Soda Popper
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_sodapopper.res"
 {
-	HudItemEffectMeter
+	"== huditemeffectmeter_sodapopper =="
 	{
-		"ypos"			"r141"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+

@@ -1,11 +1,20 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos1.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Cow Mangler
-
-"Resource/UI/HudItemEffectMeter_ParticleCannon.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Soldier - Cow Mangler 5000
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_particlecannon.res"
 {
-	HudItemEffectMeter
+	"== huditemeffectmeter_organs =="
 	{
-		"ypos"			"r141"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+

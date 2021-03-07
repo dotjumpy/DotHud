@@ -1,11 +1,20 @@
-#base "huditemeffectmeter.res"
+	#base 	"huditemeffectmeter_base_meters_pos3.res"
+	#base 	"huditemeffectmeter_base_meters.res"
 
-// Soda Popper
-
-"Resource/UI/HudItemEffectMeter_SodaPopper.res"
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	// Affected Elements / Weapons
+	// ============================================================================================== //
+	// Scout - Flying Guillotine
+	////////////////////////////////////////////////////////////////////////////////////////////////////
+	
+"Resource/UI/huditemeffectmeter_cleaver.res"
 {
-	HudItemEffectMeter
+	"== huditemeffectmeter_cleaver =="
 	{
-		"ypos"			"r123"
-	}	
+		"ControlName"												"ImagePanel"
+	}
 }
+
+
+
+
