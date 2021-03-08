@@ -5,7 +5,7 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
-		"xpos"			"30"
+		"xpos"			"10"
 		"ypos"			"0"
 		"zpos"			"2"
 		"wide"			"80"
@@ -14,7 +14,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"textAlignment"	"Left2"
+		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
 
