@@ -482,7 +482,7 @@
 		"IconColor"     		"255 255 255 255"
 		"LocalPlayerColor"  	"12 12 12 255"
 
-		"BaseBackgroundColor"	"0 0 0 165"
+		"BaseBackgroundColor"	"0 0 0 0"
 		"LocalBackgroundColor"	"245 245 245 235"
 	}
 
@@ -838,10 +838,10 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-100"
+		"xpos"					"c-42"
 		"ypos"					"72"
 		"wide"					"f0"
-		"tall"					"f0"
+		"tall"					"20"
 		"zpos"					"4"
 		"proportionaltoparent"	"1"
 	}
