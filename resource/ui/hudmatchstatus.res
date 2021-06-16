@@ -265,7 +265,7 @@
 		"ypos"			"6"
 		"zpos"			"2"
 		"wide"			"f0"
-		"tall"			"22"
+		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
 
@@ -287,7 +287,7 @@
 		{
 			"visible"		"1"
 			"wide"			"20"
-			"tall"			"22"
+			"tall"			"40"
 			"zpos"			"1"
 
 			"color_portrait_bg_red"				"0 0 0 165"
@@ -306,15 +306,23 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"DefaultVerySmall"
-				"xpos"			"5"
-				"ypos"			"24"
+				"font"			"product6"
+				"xpos"			"cs-0.5"
+				"ypos"			"0"
 				"zpos"			"5"
-				"wide"			"0"
+				"wide"			"f0"
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		"0"
+				"textinsetx"	"1"
+				"visible"		"1"
+				"enabled"		"1"
+				"textAlignment"	"center"
+				"labelText"		"%playername%"
+
+				"pin_to_sibling" 		"healthbar"
+				"pin_corner_to_sibling" "PIN_CENTER_TOP"
+				"pin_to_sibling_corner" "PIN_CENTER_BOTTOM"
 			}
 			"classimage"
 			{
@@ -351,7 +359,7 @@
 				"fieldName"				"healthbar"
 				"font"					"Default"
 				"xpos"					"0"
-				"ypos"					"rs1"
+				"ypos"					"0"
 				"zpos"					"5"
 				"wide"					"f0"
 				"tall"					"2"
@@ -364,6 +372,10 @@
 				"brighttext"			"0"
 				"bgcolor_override"		"0 0 0 220"
 				"proportionaltoparent"	"1"
+
+				"pin_to_sibling" 		"classimagebg"
+				"pin_corner_to_sibling" "PIN_CENTER_TOP"
+				"pin_to_sibling_corner" "PIN_CENTER_BOTTOM"
 			}
 			"overhealbar"
 			{
@@ -371,7 +383,7 @@
 				"fieldName"				"overhealbar"
 				"font"					"Default"
 				"xpos"					"0"
-				"ypos"					"rs1"
+				"ypos"					"0"
 				"zpos"					"6"
 				"wide"					"p2"
 				"tall"					"2"
@@ -385,6 +397,10 @@
 				"bgcolor_override"		"0 0 0 0"
 				"fgcolor_override"		"Black"
 				"proportionaltoparent"	"1"
+
+				"pin_to_sibling" 		"classimagebg"
+				"pin_corner_to_sibling" "PIN_CENTER_TOP"
+				"pin_to_sibling_corner" "PIN_CENTER_BOTTOM"
 			}
 			"HealthIcon"
 			{

@@ -3680,6 +3680,339 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	
+
+	///////////////////////// ICON PROPERTIES //////////////////////////////
+		
+		"TF2Icons6"
+		{
+			"1"
+			{
+				"name"		"DotHud Icons"
+				"tall"		"6"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"TF2Icons8"
+		{
+			"1"
+			{
+				"name"		"DotHud Icons"
+				"tall"		"8"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"TF2Icons10"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"10"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons12"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"12"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons14"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"14"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"TF2Icons15"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"15"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons16"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"16"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons18"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"18"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons20"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"20"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons22"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"22"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons24"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"24"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons25"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"25"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons26"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"26"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons28"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"28"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons30"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"30"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons34"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"34"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons38"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"38"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons40"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"40"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons46"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"46"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons48"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"48"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons50"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"50"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons54"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"54"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"TF2Icons56"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"56"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+
+		"TF2Icons57"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"57"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons58"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"58"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons60"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"60"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons64"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"64"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons68"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"68"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons70"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"70"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		
+		"TF2Icons72"
+		{
+			"1"
+			{
+				"name"			"DotHud Icons"
+				"tall"			"72"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 	}
 
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
@@ -3773,6 +4106,11 @@ Scheme
 		{
 			"font" "resource/fontfiles/ProductSans-BoldNumbers.ttf"
 			"name" "Product Sans Bold Numbers"
+		}
+		"17"
+		{
+			"font" "resource/fontfiles/DotHudIcons.ttf"
+			"name" "DotHud Icons"
 		}
 	}
 }

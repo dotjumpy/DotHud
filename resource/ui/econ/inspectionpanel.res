@@ -225,7 +225,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PaintkitPreviewContainer"
-		"xpos"			"c-268"
+		"xpos"			"40"
 		"ypos"			"88"
 		"wide"			"90"
 		"tall"			"237"

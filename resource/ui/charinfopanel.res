@@ -96,12 +96,12 @@
 	{
 		"ControlName"						"EditablePanel"
 		"fieldName"							"Sheet"
-		"tabxindent"						"0"
-		"tabxdelta"							"0"
+		"tabxindent"						"0"		// Tab left/right position
+		"tabxdelta"							"0"		// Gap between tabs
+		"tabwidth"							"0"		// Tab width
+		"tabheight"							"0"		// Tab height
+		"transition_time" 					"0"		// Fade in between tabs 
 		"tabydelta"							"0"
-		"tabwidth"							"0"
-		"tabheight"							"0"
-		"transition_time" 					"0"
 
 		"HeaderLine"
 		{
@@ -206,7 +206,7 @@
 		"dulltext"							"0"
 		"brighttext"						"0"
 		"default"							"1"
-		"Command"							"close"
+		"Command"							"back"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
 		

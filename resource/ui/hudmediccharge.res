@@ -6,7 +6,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
 		"font"			"ProductBold32"
-		"fgcolor"		"216 216 216 255"
+		"fgcolor"		"236 236 236 255"
 		"xpos"			"-2"
 		"ypos"			"-1"
 		"zpos"			"5"

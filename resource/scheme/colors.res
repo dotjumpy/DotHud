@@ -182,7 +182,7 @@ Scheme
 		"Normal"								"194 194 194 255"
 		"Genuine"								"60 163 115 255"
 		"Unusual"								"112 57 203 255"
-		"Vintage"								"53 105 155 255"
+		"Vintage"								"53 105 155 255" //53 105 155 255
 		"Unique"								"239 174 40 255"
 		"Community"								"112 176 74 255"
 		"Developer"								"165 15 121 255"
@@ -207,7 +207,7 @@ Scheme
 		"QualityColorrarity2"					"141 131 75 255"
 		"QualityColorrarity3"					"204 204 250 255"
 		"QualityColorrarity4"					"134 80 172 255"
-		"QualityColorVintage"					"30 144 255 255"
+		"QualityColorVintage"					"71 98 145 255"
 		"QualityColorUnique"					"255 215 0 255"
 		"QualityColorCommunity"					"112 176 74 255"
 		"QualityColorDeveloper"					"165 15 121 255"

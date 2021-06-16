@@ -397,9 +397,10 @@
 		"Command"							"characterloadout"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		"font"								"product8"
+		"font"								"TF2Icons15"
 		"textAlignment"						"center"
-		"labelText"							""
+		"labelText"							"Z"
+		"textinsetx"						"1"
 		"paintbackground"					"1"
 
 		"SubImage"
@@ -415,7 +416,7 @@
 			"enabled"						"1"
 			"scaleImage"					"1"
 			"proportionaltoparent"			"1"
-			"image"							"glyph_items"
+			"image"							""
 		}
 	}
 
@@ -439,10 +440,10 @@
 		"Command"							"tauntloadout"
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
-		"font"								"product8"
+		"font"								"TF2Icons15"
 		"textAlignment"						"center"
-		"labelText"							""
-		"textinsety"						"-1"
+		"labelText"							"X"
+		"textinsetx"						"1"
 		"paintbackground"					"1"
 
 		"SubImage"
@@ -458,7 +459,7 @@
 			"enabled"						"1"
 			"scaleImage"					"1"
 			"proportionaltoparent"			"1"
-			"image"							"../hud/ico_reel"
+			"image"							""
 		}
 	}
 }

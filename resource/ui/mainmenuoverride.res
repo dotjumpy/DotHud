@@ -2332,7 +2332,7 @@
 		"ypos"					"-100"
 		"zpos"					"26"
 		"wide"					"35"
-		"tall"					"15"
+		"tall"					"16"
 		"visible"				"1"
 		"enabled"				"1"
 
@@ -2398,7 +2398,7 @@
 		"ypos"					"0"
 		"zpos"					"26"
 		"wide"					"35"
-		"tall"					"15"
+		"tall"					"16"
 		"visible"				"1"
 		"enabled"				"1"
 
@@ -2533,7 +2533,7 @@
 		"ypos"					"0"
 		"zpos"					"26"
 		"wide"					"35"
-		"tall"					"15"
+		"tall"					"16"
 		"visible"				"1"
 		"enabled"				"1"
 
